@@ -24,9 +24,9 @@ POST로 전달 받은 최종 결과에 해당하는 영화를 랜덤으로 vue�
 
 각 테스트 페이지를 자식 컴포넌트로, 최초에 모달을 실행하는 페이지를 부모 컴포넌트로 한다. 자식 컴포넌트에서 선택지를 클릭하면 선택지에 해당하는 장르가 emit으로 부모 컴포넌트로 전달되고, 부모 컴포넌트에서 상기한 딕셔너리의 값을 수정한다.
 
-<img title="" src="![r1](https://github.com/seuluv/Movie4resT/assets/121653143/45c53004-0db6-4ce8-b7d1-a10bf9334201)" alt="테스트플로우차트.png" width="425" data-align="center">
+<img title="" src="https://github.com/seuluv/Movie4resT/assets/121653143/45c53004-0db6-4ce8-b7d1-a10bf9334201" alt="테스트플로우차트.png" width="425" data-align="center">
 
-<img src="![r2](https://github.com/seuluv/Movie4resT/assets/121653143/3a15d985-c28b-4480-81ac-4628d7fa5ce6)" title="" alt="" width="334"><img title="" src="README_recommendation_assets/2023-05-25-09-34-26-image.png" alt="" width="191">
+<img src="https://github.com/seuluv/Movie4resT/assets/121653143/3a15d985-c28b-4480-81ac-4628d7fa5ce6" title="" alt="" width="334"><img title="" src="README_recommendation_assets/2023-05-25-09-34-26-image.png" alt="" width="191">
 
 ```vue
 this.choiceGenre[genrename] = this.choiceGenre[genrename] + 1
