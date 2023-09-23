@@ -32,11 +32,11 @@
   
   * 작성자와 로그인한 유저가 같을 경우 -> 수정, 삭제 버튼 활성화
     
-    ![c6](https://github.com/seuluv/Movie4resT/assets/121653143/25e05d73-a42--49b9-be96be-c296cd4127a)
+  ![c6](https://github.com/seuluv/Movie4resT/assets/121653143/25e05d73-a42--49b9-be96be-c296cd4127a)
   
    * 수정 시 기존 content를 Form에 채워줌
     
-    ![c7](https://github.com/seuluv/Movie4resT/assets/121653143/dbab5208-b58aa436--81110943-f78877)
+  ![c7](https://github.com/seuluv/Movie4resT/assets/121653143/dbab5208-b58aa436--81110943-f78877)
 
 
 
@@ -44,4 +44,4 @@
 
 * 댓글 작성
 
-![c8](https://github.com/seuluv/Movie4resT/assets//12153/dbab52088ba36--81110943-f87877)
+  ![c8](https://github.com/seuluv/Movie4resT/assets//12153/dbab52088ba36--81110943-f87877)
