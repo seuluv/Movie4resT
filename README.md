@@ -86,7 +86,7 @@ Movie for Rest 라는 명칭을 Movie 4 Rest로 변경한 것은 동음이의를
 
 ### 3. ERD
 
-![movie4rest_erd-2.drawio.png](README_assets/f506b6c3a7c96a730f32d8eab791aafe6b92c053.png)
+![erd](https://github.com/seuluv/Movie4resT/assets/121653143/c8705808-2a51-4850-acf8-700db91784fe)
 
 ---
 
@@ -118,23 +118,23 @@ Movie for Rest 라는 명칭을 Movie 4 Rest로 변경한 것은 동음이의를
 
 - 영화 메인 화면, 검색 화면, 장르별 화면에서 포스터에 마우스를 올릴 시 0.5 초의 시간 후 짧은 영화 상세 정보가 담긴 카드 출력
   
-  <img title="" src="README_assets/2023-05-25-11-40-47-image.png" alt="" width="438" data-align="center">
+  <img title="" src="![m1](https://github.com/seuluv/Movie4resT/assets/121653143/4b636e8d-61d1-4b29-aaec-e637fdfe2fe6)" alt="" width="438" data-align="center">
 
 - 출력된 카드나 포스터 클릭 시 디테일 페이지 이동
 
 - LIKE 클릭 시 클릭한 유저의 좋아하는 영화 목록 DB에 저장
   
-  ![](README_assets/2023-05-25-11-42-41-image.png)
+  ![m2](https://github.com/seuluv/Movie4resT/assets/121653143/2b9759de-40b7-4c88-8c61-a3abe53a437b)
   
-  ![](README_assets/2023-05-25-11-42-54-image.png)
+ ![m3](https://github.com/seuluv/Movie4resT/assets/121653143/033a6176-e996-4a9d-b8de-be65716abd39)
 
 - 각 장르 클릭 시 해당 장르 영화만 보여주는 페이지로 이동
   
-  ![](README_assets/2023-05-25-11-43-46-image.png)
+  ![m4](https://github.com/seuluv/Movie4resT/assets/121653143/98f59ed5-f48d-4c0c-b00f-0a778e48b701)
 
 - 0에서 5까지 0.5점 단위로 별점과 한 줄 평 부여 가능.
   
-  ![](README_assets/2023-05-25-11-46-38-image.png)
+  ![m5](https://github.com/seuluv/Movie4resT/assets/121653143/8f34efa3-c4a6-4a06-aa2f-244efe4a7fd2)
 
 ---
 
